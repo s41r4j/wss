@@ -17,16 +17,13 @@ It is equipped with flexible data export options, making it easy to save collect
 git clone https://github.com/s41r4j/wss/; cd wss; pip install -r requirements.txt
 ```
 
-## 🧾 Usage:
-- _help menu_  [ `python3 wss.py -h` ]
-<p align=center>
-  <img src="https://github.com/s41r4j/wss/assets/65067289/fa15e8fd-967e-4638-95ab-f55ef143660a">
-</p>
+<br>
 
-- _demo target - google.com_  [  `python3 wss.py -u google.com`  ]
-<p align=center>
-  <img src="https://github.com/s41r4j/wss/assets/65067289/623c53b3-5d29-4436-8867-b16e00b6a70d">
-</p>
+## 🧾 Usage:
+| _help menu_ | _demo target_ |
+|---|---|
+| <p align=center> <img src="https://github.com/s41r4j/wss/assets/65067289/fa15e8fd-967e-4638-95ab-f55ef143660a"> </p> | <p align=center> <img src="https://github.com/s41r4j/wss/assets/65067289/623c53b3-5d29-4436-8867-b16e00b6a70d"> </p> |
+| `python3 wss.py -h` | `python3 wss.py -u google.com` |
 
 
 
