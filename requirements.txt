@@ -2,4 +2,4 @@ requests
 argparse
 beautifulsoup4
 rich
-whois
+python-whois
