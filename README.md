@@ -18,7 +18,7 @@ It is equipped with flexible data export options, making it easy to save collect
 ```
 git clone https://github.com/s41r4j/wss/; cd wss; pip install -r requirements.txt
 ```
-> prerequisite: python3, pip, git & internet connection
+> prerequisite: python3, pip, git, internet connection
 
 <br>
 
@@ -27,6 +27,7 @@ git clone https://github.com/s41r4j/wss/; cd wss; pip install -r requirements.tx
 |---|---|
 | <p align=center> <img src="https://github.com/s41r4j/wss/assets/65067289/fa15e8fd-967e-4638-95ab-f55ef143660a"> </p> | <p align=center> <img src="https://github.com/s41r4j/wss/assets/65067289/623c53b3-5d29-4436-8867-b16e00b6a70d"> </p> |
 | `python3 wss.py -h` | `python3 wss.py -u google.com` |
+> collocted data is automatically stored in a file (filename in yellow)
 
 <br>
   
